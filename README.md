@@ -13,7 +13,7 @@
                                                         
 ```
 
-# Description
+## Description
 
 Different cmake templates to help learn how to utilize cmake build environments, with no other dependencies. To help teach how to use
 cmake easier, and more digestable.
