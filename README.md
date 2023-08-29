@@ -1,3 +1,4 @@
+```
   ____ __  __    _    _  _______ 
  / ___|  \/  |  / \  | |/ / ____|
 | |   | |\/| | / _ \ | ' /|  _|  
@@ -10,6 +11,8 @@
   | | | |___| |  | |  __/| |___ / ___ \| | | |___ ___) |
   |_| |_____|_|  |_|_|   |_____/_/   \_\_| |_____|____/ 
                                                         
+```
+
 # Description
 
 Different cmake templates to help learn how to utilize cmake build environments, with no other dependencies. To help teach how to use
