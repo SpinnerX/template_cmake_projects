@@ -1,0 +1,7 @@
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/libs/Logger/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/libs/Logger/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/Main/CMakeFiles/Main.dir
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/Main/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/Projects/personal/libraries/Logger/build/Main/CMakeFiles/rebuild_cache.dir

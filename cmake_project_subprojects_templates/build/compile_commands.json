@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build",
+  "command": "/usr/bin/clang++ -I/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/libs/library1/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o libs/library1/CMakeFiles/library1.dir/src/sublib1.cpp.o -c /Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/libs/library1/src/sublib1.cpp",
+  "file": "/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/libs/library1/src/sublib1.cpp"
+},
+{
+  "directory": "/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build",
+  "command": "/usr/bin/clang++ -I/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/libs/library1/include -I/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/libs/library2/include -I/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/libs/RenameMe/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o Main/CMakeFiles/Main.dir/main.cpp.o -c /Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/Main/main.cpp",
+  "file": "/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/Main/main.cpp"
+}
+]

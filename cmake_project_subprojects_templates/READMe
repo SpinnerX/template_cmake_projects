@@ -1,0 +1,22 @@
+  ____ __  __    _    _  _______ 
+ / ___|  \/  |  / \  | |/ / ____|
+| |   | |\/| | / _ \ | ' /|  _|  
+| |___| |  | |/ ___ \| . \| |___ 
+ \____|_|  |_/_/   \_\_|\_\_____|
+                                 
+ _____ _____ __  __ ____  _        _  _____ _____ 
+|_   _| ____|  \/  |  _ \| |      / \|_   _| ____|
+  | | |  _| | |\/| | |_) | |     / _ \ | | |  _|  
+  | | | |___| |  | |  __/| |___ / ___ \| | | |___ 
+  |_| |_____|_|  |_|_|   |_____/_/   \_\_| |_____|
+
+Library1
+- These are temporary libraries to show how linking libraries in libs folders work
+
+Library2
+- These are temporary libraries to show how linking libraries in libs folders work
+
+RenameMe
+- This essentially is a template for any framework that I may want to add for future projects
+
+Ref Link: https://github.com/ttroy50/cmake-examples/blob/master/02-sub-projects/A-basic/sublibrary2/CMakeLists.txt

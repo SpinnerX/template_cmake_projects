@@ -1,0 +1,165 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "libs/library1",
+					"jsonFile" : "directory-libs.library1-Debug-3d00b78408ce5e4d289a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libs/library1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "libs/library2",
+					"jsonFile" : "directory-libs.library2-Debug-b1555c12807b532a87c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "libs/library2"
+				},
+				{
+					"build" : "libs/RenameMe",
+					"jsonFile" : "directory-libs.RenameMe-Debug-ea5834d48e6050311d5f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "libs/RenameMe"
+				},
+				{
+					"build" : "Main",
+					"jsonFile" : "directory-Main-Debug-54f97ae66de18f743192.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Main",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "subprojects"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "library1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "library2",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "RenameMe",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Main",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "Main::@e4405d0c4cf2df57c995",
+					"jsonFile" : "target-Main-Debug-2c1737954f758d3ae70c.json",
+					"name" : "Main",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "library1::@05557a4c947e2825af4a",
+					"jsonFile" : "target-library1-Debug-0fe096b4959f94c9ac4c.json",
+					"name" : "library1",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build",
+		"source" : "/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

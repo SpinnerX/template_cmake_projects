@@ -1,0 +1,12 @@
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/library1/CMakeFiles/library1.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/library1/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/library1/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/library2/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/library2/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/RenameMe/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/libs/RenameMe/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/Main/CMakeFiles/Main.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/Main/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/cmake.tutorials/cmake_multiple_projects.tutorial/ProjectTemplate/build/Main/CMakeFiles/rebuild_cache.dir

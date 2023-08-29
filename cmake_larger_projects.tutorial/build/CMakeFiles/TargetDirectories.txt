@@ -1,0 +1,5 @@
+/Users/aaronher/Desktop/cmake_larger_projects.tutorial/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/cmake_larger_projects.tutorial/build/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/Desktop/cmake_larger_projects.tutorial/build/examples/CMakeFiles/examples.dir
+/Users/aaronher/Desktop/cmake_larger_projects.tutorial/build/examples/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/cmake_larger_projects.tutorial/build/examples/CMakeFiles/rebuild_cache.dir
